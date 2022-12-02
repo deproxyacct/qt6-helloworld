@@ -1,0 +1,2 @@
+added this after setting up wincred and sh8s from ANR manual
+now amma try to push this sh8s
